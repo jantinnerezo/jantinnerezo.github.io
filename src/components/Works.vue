@@ -83,7 +83,7 @@ export default {
       {
         key: 'dfmrecruitment',
         title: 'DFM Recruitment',
-        logo: 'http://dfmrecruitment.ie/img/branding/logo-colored.png',
+        logo: require('./../assets/portfolio-logos/dfmrecruitment.png'),
         url: 'http://dfmrecruitment.ie/',
         size: 'w-full',
         description: 'We recognise the challenge in finding professionals for a range of different industries; Pharmaceutical, Healthcare, Financial, Construction & Engineering, Media, Technology to name a few.',
