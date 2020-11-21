@@ -4,6 +4,10 @@
 
 @import "tailwindcss/utilities";
 
+html {
+  font-family: 'Inter', sans-serif;
+}
+
 .grayscale {
   filter: grayscale(100%);
 }
